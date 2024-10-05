@@ -1,0 +1,12 @@
+{
+   "compilerOptions": {
+      "jsx": "react-jsx",
+      "composite": true,
+      "skipLibCheck": true,
+      /* Bundler mode */
+      "module": "ESNext",
+      "moduleResolution": "bundler",
+      "allowSyntheticDefaultImports": true,
+      "strict": true
+    },
+}
